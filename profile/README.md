@@ -14,7 +14,7 @@ Built for freelancers and consultants who bill clients from GitHub.
 
 <br />
 
-[![diffbill](https://img.shields.io/badge/Try_diffbill-Free-22C55E?style=for-the-badge)](https://app.diffbill.com/signup)
+[![diffbill](https://img.shields.io/badge/Try_diffbill-Free-22C55E?style=for-the-badge)](https://diffbill.com)
 
 <br />
 
